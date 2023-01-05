@@ -1,2 +1,3 @@
 # Computer_Architechture
- 
+
+本项目为2022年春季学期USTC周学海老师开设的《计算机体系结构》课程下的全程实验
